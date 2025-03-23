@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+.book-item-container {
+  display: flex;
+  justify-content: center;
+}
+
+.book-item-container > * {
+  padding: 0 20px 0 20px;
+}
+
+.star-rating {
+  color: orange;
+}
